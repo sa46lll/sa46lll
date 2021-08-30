@@ -27,7 +27,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="https://www.instagram.com/sa46lll12/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sa46lll12/"/></a>&nbsp
-  <a href="mailto:981225smh@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=981225smh@naver.com"/></a>
+  <a href="mailto:981225smh@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=981225smh@gmail.com"/></a>
 </p>
 <br>
 
