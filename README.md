@@ -1,4 +1,4 @@
-<h3 align="center"> Hi there👋</h3>
+<h3 align="center"> Hi there👋</h3> 
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MyeongHyeonSeo&fontSize=70&animation=twinkling)
 
