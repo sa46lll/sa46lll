@@ -1,6 +1,6 @@
 <!-- <h3 align="center"> Hi there👋</h3>  -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=MyeongHyeonSeo&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=MyeongHyeonSeo&fontSize=50&fontAlignY=40)
 
 <br>
 
