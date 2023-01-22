@@ -31,6 +31,5 @@ Tech Blog : [비열한 커비](https://velog.io/@sa46lll)
 
 <br>
 
-![sa46lll's GitHub stats](https://github-readme-stats.vercel.app/api?username=sa46lll&show_icons=true&theme=dark)
-
+![sa46lll's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sa46lll&&show_icons=true&theme=dark)
 
