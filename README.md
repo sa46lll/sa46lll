@@ -13,11 +13,13 @@ Tech Blog : [비열한 커비](https://velog.io/@sa46lll)
 ### Back-End
 - `Java`
 - `Spring boot`
-- `JPA`
+- `JPA`, `MyBatis`
+- `QueryDsl`
 
 ### DBMS
 - `MySQL`
-- `MariaDB`
+- `Oracle`
+- `Redis`
 
 ### DevOps
 - `AWS EC2` `AWS Beanstalk`
