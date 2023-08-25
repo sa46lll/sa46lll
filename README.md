@@ -12,7 +12,7 @@ Tech Blog : [비열한 커비](https://velog.io/@sa46lll)
 ## Tech Stack
 ### Back-End
 - `Java`
-- `Spring boot`
+- `Spring`, `Springboot`
 - `JPA`, `MyBatis`
 - `QueryDsl`
 
