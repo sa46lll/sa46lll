@@ -26,11 +26,6 @@ Tech Blog : [비열한 커비](https://velog.io/@sa46lll)
 - `Docker` `Docker Compose`
 - `Github Actions`
 
-### Tools & Collaborations
-- `IntelliJ IDEA` `DataGrip`
-- `Git` `GitHub` `GitLab` `GitKraken`
-- `Slack` `Notion` `Discord`
-
 <br>
 
 ![sa46lll's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sa46lll&&show_icons=true&theme=dark)
