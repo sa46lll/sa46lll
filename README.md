@@ -22,7 +22,7 @@ Tech Blog : [비열한 커비](https://velog.io/@sa46lll)
 - `Redis`
 
 ### DevOps
-- `AWS EC2` `AWS Beanstalk`
+- `AWS EC2` `AWS Beanstalk` `AWS ELB` `AWS Route53` `AWS ElastiCache` `Amazon S3` `AWS CloudFront`
 - `Docker` `Docker Compose`
 - `Github Actions`
 
